@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mango</string>
+
+    <string name="scan">Scan</string>
+    <string name="cards">Cards</string>
+    <string name="me">Me</string>
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">Some intro message here</string>
+
+</resources>
